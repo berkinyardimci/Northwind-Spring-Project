@@ -1,0 +1,5 @@
+package kodlamaios.northwindProject.entities.concretes;
+
+public class Product {
+
+}

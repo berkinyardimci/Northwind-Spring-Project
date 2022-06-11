@@ -1,0 +1,5 @@
+package kodlamaios.northwindProject.business.concretes;
+
+public class ProductManager {
+
+}
