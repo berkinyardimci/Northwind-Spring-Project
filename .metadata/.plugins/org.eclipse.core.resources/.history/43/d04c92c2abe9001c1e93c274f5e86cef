@@ -1,0 +1,5 @@
+package kodlamaios.northwindProject.core.utilities.results;
+
+public class SuccessDataResult {
+
+}
